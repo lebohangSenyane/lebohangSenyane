@@ -20,7 +20,7 @@ Cloud & Systems: Linux, Azure VMs
 
 ### 📁SOC Home Lab (Azure, Sentinel, KQL)
 
-A home Security Operations Center in Azure with a VM honeypot with log analytics and attack visualization.
+A home Security Operations Center in Azure with a VM honeypot and log analytics.
 
 Repo:[Soc HomeLab](https://github.com/lebohangSenyane/HomeSocLab)
 
